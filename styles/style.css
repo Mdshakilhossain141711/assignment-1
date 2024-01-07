@@ -44,3 +44,47 @@
     font-weight: 900;
     line-height: 95px;
 }
+
+/* HEADER STYLE END */
+/* MAIN SECTION STYLE START */
+.offer {
+    margin: 120PX auto;
+    text-align: center;
+}
+
+.offer h1 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.offer P {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 48px;
+}
+
+.offer h3 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.offer img {
+    width: 800px;
+    height: 500px;
+    margin: 48px auto;
+}
